@@ -7,9 +7,9 @@ This is a Blogging web application which is build using Python version 3.11.0 an
 
 Packages requiring downloading for this application via pip install are:
 
-pip3 install SQLAlchemy
+<ul>pip3 install SQLAlchemy</ul>
 
-pip3 install flask  # latest version 2.2.2
+<ul>pip3 install flask  # latest version 2.2.2</ul>
 
 pip3 install email_validator
 
